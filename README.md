@@ -14,14 +14,33 @@ Tengo más de 12 años de experiencia previa coordinando equipos y crews de prod
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Core Stack & Tecnologías
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Mobile & Frontend** | **React Native**, JavaScript (ES6+), TypeScript, React.js, Redux, Context API, HTML5, CSS3, UX/UI Layouts |
-| **E-commerce** | VTEX IO, Integraciones de Comercio Electrónico |
-| **Backend & Databases** | Node.js, Express, PostgreSQL, Sequelize, REST APIs |
-| **Herramientas & Procesos** | Git / GitHub, Scrum (Metodologías Ágiles), Docker, CI/CD, Xcode, Android Studio |
+Aquí puedes ver las tecnologías y herramientas con las que construyo soluciones robustas diariamente:
+
+#### 📱 Mobile & Frontend
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🛍️ E-commerce & Backend
+![VTEX](https://img.shields.io/badge/VTEX-F71963?style=for-the-badge&logo=vtex&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.dot-js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+
+#### ⚙️ Herramientas & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-008080?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 ---
 
