@@ -54,15 +54,6 @@ He tenido la oportunidad de liderar y desarrollar aplicaciones móviles de impac
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristhianAlban&show_icons=true&theme=radical&include_all_commits=true" alt="Estadísticas de GitHub de Cristhian" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianAlban&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%" />
-</p>
-
----
-
 ### 📬 Conectemos
 
 Si estás buscando un perfil capaz de liderar el desarrollo de tus aplicaciones móviles con React Native, optimizar la experiencia de usuario de tus proyectos o liderar equipos técnicos hacia el éxito:
